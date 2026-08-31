@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/deepam1212/daily-leetcode/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/deepam1212/daily-leetcode/tree/master/0040-combination-sum-ii) |
 | [0486-predict-the-winner](https://github.com/deepam1212/daily-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepam1212/daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/deepam1212/daily-leetcode/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepam1212/daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/deepam1212/daily-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepam1212/daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/deepam1212/daily-leetcode/tree/master/0018-4sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepam1212/daily-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepam1212/daily-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/deepam1212/daily-leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
