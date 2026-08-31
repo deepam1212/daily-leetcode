@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/deepam1212/daily-leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/deepam1212/daily-leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/deepam1212/daily-leetcode/tree/master/0040-combination-sum-ii) |
 | [0486-predict-the-winner](https://github.com/deepam1212/daily-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepam1212/daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/deepam1212/daily-leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/deepam1212/daily-leetcode/tree/master/0031-next-permutation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepam1212/daily-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepam1212/daily-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/deepam1212/daily-leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
