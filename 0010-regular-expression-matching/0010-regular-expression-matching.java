@@ -7,6 +7,8 @@ class Solution {
                     pattern.charAt(0) == '.'));
 
         if (pattern.length() >= 2 && pattern.charAt(1) == '*') {
+
+            
             return (
                 isMatch(text, pattern.substring(2)) ||
                 (first_match && isMatch(text.substring(1), pattern))
