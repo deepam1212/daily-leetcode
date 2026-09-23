@@ -12,6 +12,10 @@ class Solution {
             return res;
         }
 
+
+
+
+        
         // There are k remaining values to add to the sum. The
         // average of these values is at least target / k.
         long average_value = target / k;
